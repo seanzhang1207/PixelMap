@@ -2,18 +2,17 @@
 
 Tired of drawing walking animation for your pixel game characters? Draw one frame, define how it moves and generate the rest! For example, I designed this little fella:
 
-![](demos/design.png)
+![design](demos/design.png)
 
 And I made something like this:
 
-![spritesheet](demos/template.png)
+![template](demos/template.png)
 
 Here each unique color code (black/white/transparent/colored) will be used to map the original design to each sprite.
 
 So I hit the commands, and voila --
 
-![](/Users/sean/Development/PixelMap/demos/spritesheet.png)
-
+![spritesheet](demos/spritesheet.png)
 
 
 **Requirements:**
