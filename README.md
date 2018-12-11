@@ -1,6 +1,6 @@
 # PixelMap
 
-Tired of drawing walking animation for your pixel game characters? Draw one frame, define how it moves and generate the rest! For example, I designed this little fella:
+Tired of drawing walking animation for your pixel game characters? Want to generate a BUNCH of NPCs? Draw one frame, define how it moves and generate the rest! For example, I designed this little fella:
 
 ![design](demos/design.png)
 
